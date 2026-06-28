@@ -95,6 +95,7 @@ nav.hidden {
     z-index: 2;
     max-width: 800px;
     margin-top: 120px; /* <-- INCREASE THIS NUMBER to push the text down */
+    width: 100%;
 }
 
 .greeting {
